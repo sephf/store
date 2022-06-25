@@ -1,0 +1,491 @@
+# depslib dependency file v1.0
+1656055707 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\main.cpp
+	"Control.h"
+
+1655801349 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\camisabstr.h
+	<iostream>
+
+1655801349 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\camisabstr.cpp
+	"CamisAbstr.h"
+
+1655760192 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\bota.cpp
+	"Bota.h"
+
+1655359135 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\bota.h
+	"ZapatoAbstr.h"
+
+1655801349 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\zapatoabstr.h
+	<iostream>
+
+1655359135 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\camiseta.cpp
+	"Camiseta.h"
+
+1655359135 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\camiseta.h
+	"CamisAbstr.h"
+
+1655760192 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\concuadros.cpp
+	"ConCuadros.h"
+
+1655359135 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\concuadros.h
+	"CamisAbstr.h"
+
+1655760192 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\ejecutivo.cpp
+	"Ejecutivo.h"
+
+1655359135 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\ejecutivo.h
+	"ZapatoAbstr.h"
+
+1655760192 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\jeams.cpp
+	"Jeams.h"
+
+1655359135 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\jeams.h
+	"PantalonAbstr.h"
+
+1655801349 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\pantalonabstr.h
+	<iostream>
+
+1655760192 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\devestir.cpp
+	"DeVestir.h"
+
+1655359135 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\devestir.h
+	<iostream>
+	"PantalonAbstr.h"
+
+1655760192 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\mangalarga.cpp
+	"MangaLarga.h"
+
+1655359135 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\mangalarga.h
+	"CamisAbstr.h"
+
+1655801349 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\pantalonabstr.cpp
+	"PantalonAbstr.h"
+
+1655760191 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\pantaloneta.cpp
+	"Pantaloneta.h"
+
+1655359135 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\pantaloneta.h
+	"PantalonAbstr.h"
+
+1655760192 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\tenni.cpp
+	"Tenni.h"
+
+1655359135 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\tenni.h
+	"ZapatoAbstr.h"
+
+1655801349 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\zapatoabstr.cpp
+	"ZapatoAbstr.h"
+
+1655953223 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\trajeabstracto.cpp
+	"TrajeAbstracto.h"
+
+1655953224 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\trajeabstracto.h
+	"ZapatoAbstr.h"
+	"PantalonAbstr.h"
+	"CamisAbstr.h"
+	"Servicio.h"
+
+1655936318 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\cliente.cpp
+	"Cliente.h"
+
+1655936318 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\cliente.h
+	"Observa.h"
+
+1654751797 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\observa.h
+	<iostream>
+	"TrajeAbstracto.h"
+
+1655760192 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\empresa.cpp
+	"Empresa.h"
+
+1655359135 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\empresa.h
+	"Cliente.h"
+
+1655760192 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\observa.cpp
+	"Observa.h"
+
+1656057897 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\catalogoenlinea.cpp
+	"CatalogoEnLinea.h"
+
+1656057383 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\catalogoenlinea.h
+	"Nodo.h"
+	"Subject.h"
+
+1655860387 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\nodo.h
+	"TrajeAbstracto.h"
+
+1655950077 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\trajedeportivo.cpp
+	"TrajeDeportivo.h"
+
+1655802727 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\trajedeportivo.h
+	"TrajeAbstracto.h"
+	"Camiseta.h"
+	"Pantaloneta.h"
+	"Tenni.h"
+
+1655760192 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\persona.cpp
+	"Persona.h"
+
+1655359135 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\persona.h
+	<iostream>
+	"Cliente.h"
+
+1655950077 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\trajetrabajo.cpp
+	"TrajeTrabajo.h"
+
+1655803006 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\trajetrabajo.h
+	"TrajeAbstracto.h"
+	"ConCuadros.h"
+	"Jeams.h"
+	"Bota.h"
+
+1655860387 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\nodo.cpp
+	"Nodo.h"
+
+1656057352 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\subject.cpp
+	"Subject.h"
+
+1656057352 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\subject.h
+	"Persona.h"
+	"Empresa.h"
+	<sstream>
+	<vector>
+	<iterator>
+	<algorithm>
+	<fstream>
+
+1655950077 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\trajeejecutivo.cpp
+	"TrajeEjecutivo.h"
+
+1655803006 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\trajeejecutivo.h
+	"TrajeAbstracto.h"
+	"Ejecutivo.h"
+	"DeVestir.h"
+	"MangaLarga.h"
+
+1655760192 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\clienteabstracto.cpp
+	"ClienteAbstracto.h"
+
+1654118889 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\clienteabstracto.h
+
+1655760192 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\clienteempresa.cpp
+	"ClienteEmpresa.h"
+
+1654118902 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\clienteempresa.h
+
+1655760192 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\clientepersona.cpp
+	"ClientePersona.h"
+
+1654118914 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\clientepersona.h
+
+1655937262 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\contenedordeventas.cpp
+	"ContenedorDeVentas.h"
+
+1655938291 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\contenedordeventas.h
+	<deque>
+	<iterator>
+	<algorithm>
+	"Venta.h"
+
+1655359135 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\fecha.cpp
+	"Fecha.h"
+
+1655359135 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\fecha.h
+	<sstream>
+
+1655396806 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\hora.cpp
+	"Hora.h"
+
+1655359135 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\hora.h
+	<sstream>
+
+1656058090 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\tiendaencostarica.cpp
+	"TiendaEnCostaRica.h"
+
+1655953224 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\tiendaencostarica.h
+	"ContenedorDeVentas.h"
+	"CatalogoEnLinea.h"
+	"TrajeDeportivo.h"
+	"TrajeTrabajo.h"
+	"TrajeEjecutivo.h"
+	"Persona.h"
+	"Empresa.h"
+
+1655940580 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\venta.cpp
+	"Venta.h"
+
+1655934467 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\venta.h
+	"Hora.h"
+	"Fecha.h"
+	"Cliente.h"
+
+1656054321 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\control.cpp
+	"Control.h"
+
+1655946756 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\control.h
+	"Vista.h"
+
+1655953610 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\vista.cpp
+	"Vista.h"
+
+1655946695 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\vista.h
+	"TiendaEnCostaRica.h"
+
+1655940580 c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\include\servicio.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<sstream>
+	<conio.h>
+	<clocale>
+	<cstring>
+
+1655936849 source:c:\users\admin\onedrive - universidad nacional de costa rica\escritorio\proyecto#2\src\servicio.cpp
+	"Servicio.h"
+
+1656139914 source:f:\proyecto#2\main.cpp
+	"Control.h"
+
+1655946758 f:\proyecto#2\include\control.h
+	"Vista.h"
+
+1656147114 f:\proyecto#2\include\vista.h
+	"TiendaEnCostaRica.h"
+
+1656147114 f:\proyecto#2\include\tiendaencostarica.h
+	"ContenedorDeVentas.h"
+	"CatalogoEnLinea.h"
+	"TrajeDeportivo.h"
+	"TrajeTrabajo.h"
+	"TrajeEjecutivo.h"
+	"Persona.h"
+	"Empresa.h"
+
+1656142530 f:\proyecto#2\include\contenedordeventas.h
+	<deque>
+	<iterator>
+	<algorithm>
+	<fstream>
+	"Venta.h"
+
+1655934468 f:\proyecto#2\include\venta.h
+	"Hora.h"
+	"Fecha.h"
+	"Cliente.h"
+
+1656147492 f:\proyecto#2\include\hora.h
+	<sstream>
+	"Servicio.h"
+
+1656147492 f:\proyecto#2\include\fecha.h
+	<sstream>
+	"Servicio.h"
+
+1656150828 f:\proyecto#2\include\cliente.h
+	"Observa.h"
+
+1654751798 f:\proyecto#2\include\observa.h
+	<iostream>
+	"TrajeAbstracto.h"
+
+1656149990 f:\proyecto#2\include\trajeabstracto.h
+	"ZapatoAbstr.h"
+	"PantalonAbstr.h"
+	"CamisAbstr.h"
+	"Servicio.h"
+	<fstream>
+
+1655801350 f:\proyecto#2\include\zapatoabstr.h
+	<iostream>
+
+1655801350 f:\proyecto#2\include\pantalonabstr.h
+	<iostream>
+
+1655801350 f:\proyecto#2\include\camisabstr.h
+	<iostream>
+
+1655940582 f:\proyecto#2\include\servicio.h
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<sstream>
+	<conio.h>
+	<clocale>
+	<cstring>
+
+1656150572 f:\proyecto#2\include\catalogoenlinea.h
+	"Nodo.h"
+	"Subject.h"
+
+1655860388 f:\proyecto#2\include\nodo.h
+	"TrajeAbstracto.h"
+
+1656153458 f:\proyecto#2\include\subject.h
+	"Persona.h"
+	"Empresa.h"
+	<sstream>
+	<vector>
+	<iterator>
+	<algorithm>
+	<cxxabi.h>
+
+1656152654 f:\proyecto#2\include\persona.h
+	<iostream>
+	"Cliente.h"
+
+1656152654 f:\proyecto#2\include\empresa.h
+	"Cliente.h"
+
+1656147752 f:\proyecto#2\include\trajedeportivo.h
+	"TrajeAbstracto.h"
+	"Camiseta.h"
+	"Pantaloneta.h"
+	"Tenni.h"
+
+1655359136 f:\proyecto#2\include\camiseta.h
+	"CamisAbstr.h"
+
+1655359136 f:\proyecto#2\include\pantaloneta.h
+	"PantalonAbstr.h"
+
+1655359136 f:\proyecto#2\include\tenni.h
+	"ZapatoAbstr.h"
+
+1656147752 f:\proyecto#2\include\trajetrabajo.h
+	"TrajeAbstracto.h"
+	"ConCuadros.h"
+	"Jeams.h"
+	"Bota.h"
+
+1655359136 f:\proyecto#2\include\concuadros.h
+	"CamisAbstr.h"
+
+1655359136 f:\proyecto#2\include\jeams.h
+	"PantalonAbstr.h"
+
+1655359136 f:\proyecto#2\include\bota.h
+	"ZapatoAbstr.h"
+
+1656147752 f:\proyecto#2\include\trajeejecutivo.h
+	"TrajeAbstracto.h"
+	"Ejecutivo.h"
+	"DeVestir.h"
+	"MangaLarga.h"
+
+1655359136 f:\proyecto#2\include\ejecutivo.h
+	"ZapatoAbstr.h"
+
+1655359136 f:\proyecto#2\include\devestir.h
+	<iostream>
+	"PantalonAbstr.h"
+
+1655359136 f:\proyecto#2\include\mangalarga.h
+	"CamisAbstr.h"
+
+1655760194 source:f:\proyecto#2\src\bota.cpp
+	"Bota.h"
+
+1655801350 source:f:\proyecto#2\src\camisabstr.cpp
+	"CamisAbstr.h"
+
+1655359136 source:f:\proyecto#2\src\camiseta.cpp
+	"Camiseta.h"
+
+1656150618 source:f:\proyecto#2\src\catalogoenlinea.cpp
+	"CatalogoEnLinea.h"
+
+1656149172 source:f:\proyecto#2\src\cliente.cpp
+	"Cliente.h"
+
+1655760194 source:f:\proyecto#2\src\clienteabstracto.cpp
+	"ClienteAbstracto.h"
+
+1654118890 f:\proyecto#2\include\clienteabstracto.h
+
+1655760194 source:f:\proyecto#2\src\clienteempresa.cpp
+	"ClienteEmpresa.h"
+
+1654118904 f:\proyecto#2\include\clienteempresa.h
+
+1655760194 source:f:\proyecto#2\src\clientepersona.cpp
+	"ClientePersona.h"
+
+1654118916 f:\proyecto#2\include\clientepersona.h
+
+1655760194 source:f:\proyecto#2\src\concuadros.cpp
+	"ConCuadros.h"
+
+1656147566 source:f:\proyecto#2\src\contenedordeventas.cpp
+	"ContenedorDeVentas.h"
+
+1656147158 source:f:\proyecto#2\src\control.cpp
+	"Control.h"
+
+1655760194 source:f:\proyecto#2\src\devestir.cpp
+	"DeVestir.h"
+
+1655760194 source:f:\proyecto#2\src\ejecutivo.cpp
+	"Ejecutivo.h"
+
+1656152806 source:f:\proyecto#2\src\empresa.cpp
+	"Empresa.h"
+
+1656147492 source:f:\proyecto#2\src\fecha.cpp
+	"Fecha.h"
+
+1656147442 source:f:\proyecto#2\src\hora.cpp
+	"Hora.h"
+
+1655760194 source:f:\proyecto#2\src\jeams.cpp
+	"Jeams.h"
+
+1655760194 source:f:\proyecto#2\src\mangalarga.cpp
+	"MangaLarga.h"
+
+1655860388 source:f:\proyecto#2\src\nodo.cpp
+	"Nodo.h"
+
+1655760194 source:f:\proyecto#2\src\observa.cpp
+	"Observa.h"
+
+1655801350 source:f:\proyecto#2\src\pantalonabstr.cpp
+	"PantalonAbstr.h"
+
+1655760192 source:f:\proyecto#2\src\pantaloneta.cpp
+	"Pantaloneta.h"
+
+1656153146 source:f:\proyecto#2\src\persona.cpp
+	"Persona.h"
+
+1655936850 source:f:\proyecto#2\src\servicio.cpp
+	"Servicio.h"
+
+1656153458 source:f:\proyecto#2\src\subject.cpp
+	"Subject.h"
+
+1655760194 source:f:\proyecto#2\src\tenni.cpp
+	"Tenni.h"
+
+1656153458 source:f:\proyecto#2\src\tiendaencostarica.cpp
+	"TiendaEnCostaRica.h"
+
+1656150126 source:f:\proyecto#2\src\trajeabstracto.cpp
+	"TrajeAbstracto.h"
+
+1656145014 source:f:\proyecto#2\src\trajedeportivo.cpp
+	"TrajeDeportivo.h"
+
+1656145014 source:f:\proyecto#2\src\trajeejecutivo.cpp
+	"TrajeEjecutivo.h"
+
+1656145014 source:f:\proyecto#2\src\trajetrabajo.cpp
+	"TrajeTrabajo.h"
+
+1655940582 source:f:\proyecto#2\src\venta.cpp
+	"Venta.h"
+
+1656147160 source:f:\proyecto#2\src\vista.cpp
+	"Vista.h"
+
+1655801350 source:f:\proyecto#2\src\zapatoabstr.cpp
+	"ZapatoAbstr.h"
+
